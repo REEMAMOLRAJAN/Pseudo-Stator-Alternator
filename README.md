@@ -1,3 +1,3 @@
 # Pseudo-Stator-Alternator
 This is a simple generator which utilises Faradeys laws of electromagnetic induction.
-Instead of conven
+Conventional generators have rotor and a stator. The inetraction of these two parts generates electricity. However, in this proposed model there is no stator. We are developing another rotor. 
